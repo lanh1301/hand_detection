@@ -1,0 +1,10 @@
+/content/drive/MyDrive/Colab Notebooks/yolov6/YOLOv6/data/Ego_hand/egohands_processed/images/val/CARDS_LIVINGROOM_T_B_frame_0479.jpg
+/content/drive/MyDrive/Colab Notebooks/yolov6/YOLOv6/data/Ego_hand/egohands_processed/images/val/JENGA_LIVINGROOM_B_H_frame_0015.jpg
+/content/drive/MyDrive/Colab Notebooks/yolov6/YOLOv6/data/Ego_hand/egohands_processed/images/val/CARDS_LIVINGROOM_S_H_frame_1572.jpg
+/content/drive/MyDrive/Colab Notebooks/yolov6/YOLOv6/data/Ego_hand/egohands_processed/images/val/JENGA_LIVINGROOM_B_H_frame_1896.jpg
+/content/drive/MyDrive/Colab Notebooks/yolov6/YOLOv6/data/Ego_hand/egohands_processed/images/val/JENGA_LIVINGROOM_S_T_frame_0368.jpg
+/content/drive/MyDrive/Colab Notebooks/yolov6/YOLOv6/data/Ego_hand/egohands_processed/images/val/CARDS_COURTYARD_B_T_frame_1804.jpg
+/content/drive/MyDrive/Colab Notebooks/yolov6/YOLOv6/data/Ego_hand/egohands_processed/images/val/JENGA_LIVINGROOM_T_S_frame_1469.jpg
+/content/drive/MyDrive/Colab Notebooks/yolov6/YOLOv6/data/Ego_hand/egohands_processed/images/val/CARDS_LIVINGROOM_B_T_frame_0425.jpg
+/content/drive/MyDrive/Colab Notebooks/yolov6/YOLOv6/data/Ego_hand/egohands_processed/images/val/PUZZLE_COURTYARD_S_B_frame_1927.jpg
+/content/drive/MyDrive/Colab Notebooks/yolov6/YOLOv6/data/Ego_hand/egohands_processed/images/val/JENGA_LIVINGROOM_H_B_frame_0515.jpg
